@@ -27,3 +27,4 @@ To lint:
 meteor npm run lint
 ```
 
+Read Me up-to-date
